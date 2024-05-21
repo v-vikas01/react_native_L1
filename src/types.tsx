@@ -16,6 +16,7 @@ export type RootStackParamList = {
     name: any;
   };
   SellUsedCars: undefined;
+  TabBar: undefined;
 };
 
 export type VideoPlayerScreenNavigationProp = StackNavigationProp<

@@ -352,7 +352,7 @@ const HomeScreen: React.FC = () => {
                     },
                   ]}>
                   <LinearGradient
-                    colors={['#FFFFFF', '#E4E4FF', '#BEC5EA']}
+                    colors={['#FBFBFB', '#EBEBEB', '#CCCCE7']}
                     start={{x: 0, y: 0}}
                     end={{x: 0, y: 1}}
                     style={[
